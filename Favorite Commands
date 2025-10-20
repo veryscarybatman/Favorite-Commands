@@ -1,0 +1,39 @@
+ip addr show 
+
+ifconfig
+
+ping [remote_host]   == gives icmp request to target ip addr
+
+netstat == active internet connections
+
+whois [domain name] == finds name of tagets
+
+nslookup [domain name] == ip addr and dns name
+
+ssh [user_name] @ [remote_host] 
+
+ssh [host]
+
+w
+
+whoami
+
+hostname
+
+sudo apt install 
+
+who 
+
+hostname -i 
+
+last reboot
+
+date
+
+kex --win -s (on Linux)
+
+wsl -l -v (windows)
+
+wsl --shutdown (windows)
+
+wmic printer list brief (windows)
